@@ -3,7 +3,7 @@ local mouse = player:GetMouse()
 print(".")
 print("loaded succ")
 local keys = {
-    "000377X99100E887e99F938",
+    "NIGGER",
     "xDTkErqYYf2XuaQMbzj6jm", --ömer
     "qT81680yv7GBFhdZGJbBug", --özer
     "Sikici-ozer", --özer 2
@@ -125,9 +125,9 @@ TextButton.MouseButton1Click:Connect(function()
 
         -- Place your script's main code here
         if keyType == "Normal" then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/Yourgithubname/yourrepo/main/yourscriptname'))()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/scripterboy32/dora/main/script.lua))()
         elseif keyType == "priv" then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/Yourgithubname/yourrepo/main/yourscriptname'))()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/scripterboy32/dora/main/script.lua))()
         end
     else
         print("Invalid key. The script will not execute.")
