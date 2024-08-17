@@ -4,25 +4,25 @@ print(".")
 print("loaded succ")
 local keys = {
     "NIGGER",
-    "xDTkErqYYf2XuaQMbzj6jm", --ömer
-    "qT81680yv7GBFhdZGJbBug", --özer
-    "Sikici-ozer", --özer 2
-    "Ejf2YZdhauGY1NMGDSZB7P", --garland
-    "Dogebest",
-    "Z1dnNh5NBqgT2E44eZG61u",
+    "FUCKWAVE", --ömer
+    "none", --özer
+    "none", --özer 2
+    "none", --garland
+    "none",
+    "none",
     -- Add more keys here if needed
 }
 
 local privatekeys = {
-    "HVAQBEnnaduryyHQVatgMM",
-    "bnaaAMUTDPeTwbbKbfAgjb", --ömer
-    "NoqCKzJQddXfaXjaZVeeq",
-    "cfhhcLqiKqUrNbucCRnXey", --özer
-    "NkyxmApanWQgYCytpoYrvH",
-    "wxAsMnmtZAFXDxnnrddnaa", --özer 2
-    "aXUVRuWAxAobVsCz88nPnZ", --garland
-    "Dogebestpriv",
-    "fRtWKVPvRaqLeLnPeLjjad",
+    "none",
+    "none", --ömer
+    "none",
+    "none", --özer
+    "none",
+    "none", --özer 2
+    "none", --garland
+    "none",
+    "none",
     -- Add more keys here if needed
 }
 
