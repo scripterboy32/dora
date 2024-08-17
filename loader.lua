@@ -125,9 +125,9 @@ TextButton.MouseButton1Click:Connect(function()
 
         -- Place your script's main code here
         if keyType == "Normal" then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/scripterboy32/dora/main/script.lua))()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/scripterboy32/dora/main/script.lua'))()
         elseif keyType == "priv" then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/scripterboy32/dora/main/script.lua))()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/scripterboy32/dora/main/script.lua'))()
         end
     else
         print("Invalid key. The script will not execute.")
